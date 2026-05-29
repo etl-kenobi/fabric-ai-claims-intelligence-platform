@@ -201,6 +201,12 @@ The AI layer focuses on:
   "claim_summary": "As of 2024-12-31, claim CLM-10045 is open with high severity. The claim has a paid amount of 12,500.00, reserve amount of 40,000.00, and total incurred amount of 52,500.00. This claim shows material financial exposure and may require management review."
 }
 ```
+## Local Claims Q&A Agent Demo
+
+This project includes a lightweight local Q&A agent that reads AI-ready PIT claim documents and answers business-style questions over curated Gold/PIT data.
+
+Demo with screenshots: [Local Claims Q&A Agent Demo](docs/local_qa_agent_demo.md)
+
 
 ## Business Value
 
