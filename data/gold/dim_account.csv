@@ -1,0 +1,11 @@
+account_id,account_name,industry,region
+ACC-001,Global Insurance Account 1,Construction,North America
+ACC-002,Global Insurance Account 2,Manufacturing,APAC
+ACC-003,Global Insurance Account 3,Retail,Europe
+ACC-004,Global Insurance Account 4,Retail,North America
+ACC-005,Global Insurance Account 5,Construction,North America
+ACC-006,Global Insurance Account 6,Financial Services,Middle East
+ACC-007,Global Insurance Account 7,Manufacturing,North America
+ACC-008,Global Insurance Account 8,Manufacturing,Europe
+ACC-009,Global Insurance Account 9,Retail,North America
+ACC-010,Global Insurance Account 10,Financial Services,Europe

@@ -1,0 +1,19 @@
+{
+  "document_id": "CLM-10045_2024-12-31",
+  "claim_id": "CLM-0045",
+  "claim_number": "CLM-10045",
+  "valuation_date": "2024-12-31",
+  "claim_status": "Open",
+  "claim_type": "Bodily Injury",
+  "severity": "High",
+  "account_name": "Global Insurance Account 7",
+  "industry": "Manufacturing",
+  "region": "Europe",
+  "paid_amount": 12500.0,
+  "reserve_amount": 40000.0,
+  "expense_amount": 2500.0,
+  "recovery_amount": 0.0,
+  "incurred_amount": 55000.0,
+  "review_priority": "High",
+  "claim_summary": "As of 2024-12-31, claim CLM-10045 is open with high severity. The claim has paid amount of 12,500.00, reserve amount of 40,000.00, expense amount of 2,500.00, and total incurred amount of 55,000.00. Review priority is High."
+}

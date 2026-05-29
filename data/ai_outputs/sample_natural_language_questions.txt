@@ -1,0 +1,5 @@
+Which open claims have high incurred amount as of 2024-12-31?
+Which high severity claims require management review?
+Which claims have high reserve exposure?
+Summarize claims by region and severity.
+Which claims changed materially between valuation dates?

@@ -1,0 +1,11 @@
+account_id,account_name,industry,region,ingestion_timestamp,source_file_name,source_layer,target_layer
+ACC-001,Global Insurance Account 1,Construction,North America,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-002,Global Insurance Account 2,Manufacturing,APAC,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-003,Global Insurance Account 3,Retail,Europe,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-004,Global Insurance Account 4,Retail,North America,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-005,Global Insurance Account 5,Construction,North America,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-006,Global Insurance Account 6,Financial Services,Middle East,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-007,Global Insurance Account 7,Manufacturing,North America,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-008,Global Insurance Account 8,Manufacturing,Europe,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-009,Global Insurance Account 9,Retail,North America,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze
+ACC-010,Global Insurance Account 10,Financial Services,Europe,2026-05-28T11:24:15.334365,accounts.csv,raw,bronze

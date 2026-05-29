@@ -1,0 +1,13 @@
+table_name,rule_name,status,failed_count,description
+accounts,duplicate_account_id_check,PASS,0,Checks duplicate account_id values
+accounts,missing_account_id_check,PASS,0,Checks missing account_id values
+policies,duplicate_policy_id_check,PASS,0,Checks duplicate policy_id values
+policies,invalid_policy_date_check,PASS,0,Checks policies where effective_date is greater than expiry_date
+policies,policy_account_relationship_check,PASS,0,Checks whether policy account_id exists in accounts
+claims,duplicate_claim_id_check,PASS,0,Checks duplicate claim_id values
+claims,invalid_claim_date_check,PASS,0,Checks claims where loss_date is greater than reported_date
+claims,claim_policy_relationship_check,PASS,0,Checks whether claim policy_id exists in policies
+claim_transactions,duplicate_transaction_id_check,PASS,0,Checks duplicate transaction_id values
+claim_transactions,transaction_claim_relationship_check,PASS,0,Checks whether transaction claim_id exists in claims
+claim_transactions,missing_amount_check,PASS,0,Checks missing transaction amount values
+claim_transactions,invalid_transaction_date_check,PASS,0,Checks invalid transaction dates

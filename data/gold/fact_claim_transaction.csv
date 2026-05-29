@@ -1,0 +1,137 @@
+transaction_id,claim_id,transaction_date,transaction_type,amount,currency,claim_number,policy_id,claim_type,severity,policy_number,account_id,policy_type,account_name,industry,region,paid_amount,reserve_amount,expense_amount,recovery_amount,adjustment_amount
+TXN-00001,CLM-0001,2025-02-09,Recovery,-20283.68,USD,CLM-10001,POL-014,Property Damage,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,-20283.68,0.0
+TXN-00002,CLM-0001,2024-09-10,Paid,2874.8,USD,CLM-10001,POL-014,Property Damage,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,2874.8,0.0,0.0,0.0,0.0
+TXN-00003,CLM-0001,2024-11-11,Expense,10877.68,USD,CLM-10001,POL-014,Property Damage,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,10877.68,0.0,0.0
+TXN-00004,CLM-0002,2024-12-14,Paid,16997.43,USD,CLM-10002,POL-001,Bodily Injury,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,16997.43,0.0,0.0,0.0,0.0
+TXN-00005,CLM-0002,2024-10-19,Paid,1985.01,USD,CLM-10002,POL-001,Bodily Injury,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,1985.01,0.0,0.0,0.0,0.0
+TXN-00006,CLM-0002,2024-11-09,Expense,20114.52,USD,CLM-10002,POL-001,Bodily Injury,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,0.0,0.0,20114.52,0.0,0.0
+TXN-00007,CLM-0002,2024-06-03,Reserve,5193.96,USD,CLM-10002,POL-001,Bodily Injury,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,0.0,5193.96,0.0,0.0,0.0
+TXN-00008,CLM-0002,2024-09-21,Recovery,-3934.47,USD,CLM-10002,POL-001,Bodily Injury,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,0.0,0.0,0.0,-3934.47,0.0
+TXN-00009,CLM-0003,2024-08-17,Recovery,-6620.26,USD,CLM-10003,POL-007,Legal Expense,Medium,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,-6620.26,0.0
+TXN-00010,CLM-0003,2025-01-29,Paid,11356.7,USD,CLM-10003,POL-007,Legal Expense,Medium,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,11356.7,0.0,0.0,0.0,0.0
+TXN-00011,CLM-0003,2025-01-13,Adjustment,2898.76,USD,CLM-10003,POL-007,Legal Expense,Medium,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,0.0,2898.76
+TXN-00012,CLM-0004,2024-11-27,Paid,24240.41,USD,CLM-10004,POL-006,Bodily Injury,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,24240.41,0.0,0.0,0.0,0.0
+TXN-00013,CLM-0004,2024-12-20,Reserve,4574.62,USD,CLM-10004,POL-006,Bodily Injury,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,4574.62,0.0,0.0,0.0
+TXN-00014,CLM-0004,2024-08-29,Recovery,-5736.81,USD,CLM-10004,POL-006,Bodily Injury,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,-5736.81,0.0
+TXN-00015,CLM-0004,2024-08-07,Paid,4533.61,USD,CLM-10004,POL-006,Bodily Injury,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,4533.61,0.0,0.0,0.0,0.0
+TXN-00016,CLM-0004,2024-04-27,Recovery,-6997.47,USD,CLM-10004,POL-006,Bodily Injury,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,-6997.47,0.0
+TXN-00017,CLM-0004,2024-11-13,Recovery,-7488.61,USD,CLM-10004,POL-006,Bodily Injury,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,-7488.61,0.0
+TXN-00018,CLM-0005,2025-03-27,Recovery,-4292.52,USD,CLM-10005,POL-003,Property Damage,Medium,PN-10003,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,0.0,-4292.52,0.0
+TXN-00019,CLM-0005,2024-12-23,Reserve,24233.38,USD,CLM-10005,POL-003,Property Damage,Medium,PN-10003,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,24233.38,0.0,0.0,0.0
+TXN-00020,CLM-0005,2025-03-06,Adjustment,1993.46,USD,CLM-10005,POL-003,Property Damage,Medium,PN-10003,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,0.0,0.0,1993.46
+TXN-00021,CLM-0005,2024-12-28,Paid,1728.49,USD,CLM-10005,POL-003,Property Damage,Medium,PN-10003,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,1728.49,0.0,0.0,0.0,0.0
+TXN-00022,CLM-0005,2025-02-08,Adjustment,23024.98,USD,CLM-10005,POL-003,Property Damage,Medium,PN-10003,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,0.0,0.0,23024.98
+TXN-00023,CLM-0005,2025-02-21,Reserve,1893.55,USD,CLM-10005,POL-003,Property Damage,Medium,PN-10003,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,1893.55,0.0,0.0,0.0
+TXN-00024,CLM-0006,2024-11-10,Reserve,2178.77,USD,CLM-10006,POL-005,Legal Expense,Low,PN-10005,ACC-007,Property,Global Insurance Account 7,Manufacturing,North America,0.0,2178.77,0.0,0.0,0.0
+TXN-00025,CLM-0006,2024-11-07,Reserve,10392.5,USD,CLM-10006,POL-005,Legal Expense,Low,PN-10005,ACC-007,Property,Global Insurance Account 7,Manufacturing,North America,0.0,10392.5,0.0,0.0,0.0
+TXN-00026,CLM-0006,2025-06-19,Adjustment,6532.28,USD,CLM-10006,POL-005,Legal Expense,Low,PN-10005,ACC-007,Property,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,0.0,6532.28
+TXN-00027,CLM-0006,2025-03-22,Paid,15674.85,USD,CLM-10006,POL-005,Legal Expense,Low,PN-10005,ACC-007,Property,Global Insurance Account 7,Manufacturing,North America,15674.85,0.0,0.0,0.0,0.0
+TXN-00028,CLM-0006,2025-02-05,Adjustment,14348.06,USD,CLM-10006,POL-005,Legal Expense,Low,PN-10005,ACC-007,Property,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,0.0,14348.06
+TXN-00029,CLM-0006,2025-01-09,Expense,5504.35,USD,CLM-10006,POL-005,Legal Expense,Low,PN-10005,ACC-007,Property,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,5504.35,0.0,0.0
+TXN-00030,CLM-0007,2024-03-30,Expense,10196.75,USD,CLM-10007,POL-014,Medical,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,10196.75,0.0,0.0
+TXN-00031,CLM-0007,2024-07-18,Expense,11702.0,USD,CLM-10007,POL-014,Medical,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,11702.0,0.0,0.0
+TXN-00032,CLM-0007,2024-09-22,Paid,728.23,USD,CLM-10007,POL-014,Medical,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,728.23,0.0,0.0,0.0,0.0
+TXN-00033,CLM-0007,2024-07-06,Adjustment,24904.36,USD,CLM-10007,POL-014,Medical,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,0.0,24904.36
+TXN-00034,CLM-0008,2025-03-15,Reserve,12894.18,USD,CLM-10008,POL-004,Property Damage,Medium,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,12894.18,0.0,0.0,0.0
+TXN-00035,CLM-0008,2024-12-01,Expense,22081.17,USD,CLM-10008,POL-004,Property Damage,Medium,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,22081.17,0.0,0.0
+TXN-00036,CLM-0009,2024-11-30,Expense,4364.8,USD,CLM-10009,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,4364.8,0.0,0.0
+TXN-00037,CLM-0009,2025-03-29,Adjustment,17736.73,USD,CLM-10009,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,0.0,17736.73
+TXN-00038,CLM-0009,2025-01-31,Adjustment,691.67,USD,CLM-10009,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,0.0,691.67
+TXN-00039,CLM-0010,2025-01-17,Paid,23503.79,USD,CLM-10010,POL-012,Legal Expense,High,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,23503.79,0.0,0.0,0.0,0.0
+TXN-00040,CLM-0010,2024-12-06,Expense,3328.0,USD,CLM-10010,POL-012,Legal Expense,High,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,0.0,3328.0,0.0,0.0
+TXN-00041,CLM-0010,2024-11-29,Adjustment,4308.47,USD,CLM-10010,POL-012,Legal Expense,High,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,4308.47
+TXN-00042,CLM-0010,2025-01-13,Adjustment,5660.43,USD,CLM-10010,POL-012,Legal Expense,High,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,5660.43
+TXN-00043,CLM-0010,2025-01-28,Reserve,17343.68,USD,CLM-10010,POL-012,Legal Expense,High,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,17343.68,0.0,0.0,0.0
+TXN-00044,CLM-0010,2025-06-08,Expense,12882.52,USD,CLM-10010,POL-012,Legal Expense,High,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,0.0,12882.52,0.0,0.0
+TXN-00045,CLM-0011,2025-06-27,Paid,2761.31,USD,CLM-10011,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,2761.31,0.0,0.0,0.0,0.0
+TXN-00046,CLM-0011,2025-02-24,Expense,1580.13,USD,CLM-10011,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,1580.13,0.0,0.0
+TXN-00047,CLM-0011,2025-02-01,Reserve,16109.28,USD,CLM-10011,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,16109.28,0.0,0.0,0.0
+TXN-00048,CLM-0011,2025-01-14,Reserve,18660.16,USD,CLM-10011,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,18660.16,0.0,0.0,0.0
+TXN-00049,CLM-0012,2025-03-12,Recovery,-14242.22,USD,CLM-10012,POL-009,Bodily Injury,Low,PN-10009,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,-14242.22,0.0
+TXN-00050,CLM-0012,2024-10-11,Paid,23653.75,USD,CLM-10012,POL-009,Bodily Injury,Low,PN-10009,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,23653.75,0.0,0.0,0.0,0.0
+TXN-00051,CLM-0012,2025-03-08,Reserve,13866.96,USD,CLM-10012,POL-009,Bodily Injury,Low,PN-10009,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,13866.96,0.0,0.0,0.0
+TXN-00052,CLM-0012,2025-04-14,Expense,14771.48,USD,CLM-10012,POL-009,Bodily Injury,Low,PN-10009,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,14771.48,0.0,0.0
+TXN-00053,CLM-0012,2024-10-20,Recovery,-3622.42,USD,CLM-10012,POL-009,Bodily Injury,Low,PN-10009,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,-3622.42,0.0
+TXN-00054,CLM-0012,2024-11-30,Expense,22525.05,USD,CLM-10012,POL-009,Bodily Injury,Low,PN-10009,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,22525.05,0.0,0.0
+TXN-00055,CLM-0013,2024-11-22,Expense,5646.88,USD,CLM-10013,POL-011,Auto Damage,Medium,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,5646.88,0.0,0.0
+TXN-00056,CLM-0013,2024-06-08,Paid,9165.13,USD,CLM-10013,POL-011,Auto Damage,Medium,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,9165.13,0.0,0.0,0.0,0.0
+TXN-00057,CLM-0014,2025-04-28,Recovery,-24359.01,USD,CLM-10014,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,-24359.01,0.0
+TXN-00058,CLM-0014,2025-03-24,Reserve,23181.21,USD,CLM-10014,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,23181.21,0.0,0.0,0.0
+TXN-00059,CLM-0014,2024-11-13,Reserve,24417.05,USD,CLM-10014,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,24417.05,0.0,0.0,0.0
+TXN-00060,CLM-0014,2025-04-09,Reserve,22094.7,USD,CLM-10014,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,22094.7,0.0,0.0,0.0
+TXN-00061,CLM-0014,2024-09-20,Reserve,18545.83,USD,CLM-10014,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,18545.83,0.0,0.0,0.0
+TXN-00062,CLM-0014,2024-12-08,Recovery,-20154.76,USD,CLM-10014,POL-007,Legal Expense,Low,PN-10007,ACC-004,Property,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,-20154.76,0.0
+TXN-00063,CLM-0015,2024-05-25,Reserve,19790.68,USD,CLM-10015,POL-011,Legal Expense,Medium,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,19790.68,0.0,0.0,0.0
+TXN-00064,CLM-0015,2024-04-14,Recovery,-21868.09,USD,CLM-10015,POL-011,Legal Expense,Medium,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,0.0,-21868.09,0.0
+TXN-00065,CLM-0015,2024-10-23,Recovery,-5949.63,USD,CLM-10015,POL-011,Legal Expense,Medium,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,0.0,-5949.63,0.0
+TXN-00066,CLM-0016,2024-09-11,Expense,20603.14,USD,CLM-10016,POL-002,Property Damage,Low,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,20603.14,0.0,0.0
+TXN-00067,CLM-0016,2025-01-23,Reserve,5961.63,USD,CLM-10016,POL-002,Property Damage,Low,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,5961.63,0.0,0.0,0.0
+TXN-00068,CLM-0016,2024-11-29,Reserve,10262.42,USD,CLM-10016,POL-002,Property Damage,Low,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,10262.42,0.0,0.0,0.0
+TXN-00069,CLM-0016,2024-08-24,Paid,24188.78,USD,CLM-10016,POL-002,Property Damage,Low,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,24188.78,0.0,0.0,0.0,0.0
+TXN-00070,CLM-0016,2024-08-24,Expense,16216.3,USD,CLM-10016,POL-002,Property Damage,Low,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,16216.3,0.0,0.0
+TXN-00071,CLM-0017,2024-11-21,Adjustment,8613.17,USD,CLM-10017,POL-012,Property Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,8613.17
+TXN-00072,CLM-0017,2024-06-08,Paid,21987.44,USD,CLM-10017,POL-012,Property Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,21987.44,0.0,0.0,0.0,0.0
+TXN-00073,CLM-0017,2024-08-06,Reserve,14724.45,USD,CLM-10017,POL-012,Property Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,14724.45,0.0,0.0,0.0
+TXN-00074,CLM-0017,2024-08-07,Paid,3155.86,USD,CLM-10017,POL-012,Property Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,3155.86,0.0,0.0,0.0,0.0
+TXN-00075,CLM-0017,2024-09-20,Expense,18349.35,USD,CLM-10017,POL-012,Property Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,0.0,18349.35,0.0,0.0
+TXN-00076,CLM-0018,2024-10-08,Adjustment,24613.78,USD,CLM-10018,POL-014,Auto Damage,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,0.0,24613.78
+TXN-00077,CLM-0018,2024-07-18,Recovery,-22537.87,USD,CLM-10018,POL-014,Auto Damage,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,-22537.87,0.0
+TXN-00078,CLM-0018,2024-08-06,Expense,1587.47,USD,CLM-10018,POL-014,Auto Damage,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,1587.47,0.0,0.0
+TXN-00079,CLM-0018,2024-10-08,Paid,13238.05,USD,CLM-10018,POL-014,Auto Damage,Low,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,13238.05,0.0,0.0,0.0,0.0
+TXN-00080,CLM-0019,2024-10-03,Reserve,9423.43,USD,CLM-10019,POL-006,Auto Damage,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,9423.43,0.0,0.0,0.0
+TXN-00081,CLM-0019,2024-04-28,Expense,15767.31,USD,CLM-10019,POL-006,Auto Damage,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,15767.31,0.0,0.0
+TXN-00082,CLM-0019,2024-09-27,Paid,18133.98,USD,CLM-10019,POL-006,Auto Damage,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,18133.98,0.0,0.0,0.0,0.0
+TXN-00083,CLM-0019,2024-06-26,Adjustment,8077.47,USD,CLM-10019,POL-006,Auto Damage,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,0.0,8077.47
+TXN-00084,CLM-0019,2024-07-24,Expense,10358.81,USD,CLM-10019,POL-006,Auto Damage,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,10358.81,0.0,0.0
+TXN-00085,CLM-0019,2024-06-25,Adjustment,3618.55,USD,CLM-10019,POL-006,Auto Damage,High,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,0.0,3618.55
+TXN-00086,CLM-0020,2025-02-26,Recovery,-17094.29,USD,CLM-10020,POL-006,Bodily Injury,Medium,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,-17094.29,0.0
+TXN-00087,CLM-0020,2025-04-28,Reserve,15580.12,USD,CLM-10020,POL-006,Bodily Injury,Medium,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,15580.12,0.0,0.0,0.0
+TXN-00088,CLM-0020,2024-11-25,Recovery,-13924.46,USD,CLM-10020,POL-006,Bodily Injury,Medium,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,-13924.46,0.0
+TXN-00089,CLM-0020,2024-09-09,Expense,7529.39,USD,CLM-10020,POL-006,Bodily Injury,Medium,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,7529.39,0.0,0.0
+TXN-00090,CLM-0020,2024-12-28,Adjustment,15363.21,USD,CLM-10020,POL-006,Bodily Injury,Medium,PN-10006,ACC-005,Workers Compensation,Global Insurance Account 5,Construction,North America,0.0,0.0,0.0,0.0,15363.21
+TXN-00091,CLM-0021,2024-06-06,Recovery,-11332.92,USD,CLM-10021,POL-004,Auto Damage,Low,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,-11332.92,0.0
+TXN-00092,CLM-0021,2024-04-02,Adjustment,12093.06,USD,CLM-10021,POL-004,Auto Damage,Low,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,12093.06
+TXN-00093,CLM-0021,2024-09-25,Reserve,16641.84,USD,CLM-10021,POL-004,Auto Damage,Low,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,16641.84,0.0,0.0,0.0
+TXN-00094,CLM-0021,2024-04-20,Adjustment,16764.42,USD,CLM-10021,POL-004,Auto Damage,Low,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,16764.42
+TXN-00095,CLM-0022,2024-12-03,Paid,20551.37,USD,CLM-10022,POL-012,Auto Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,20551.37,0.0,0.0,0.0,0.0
+TXN-00096,CLM-0022,2025-03-20,Reserve,16983.49,USD,CLM-10022,POL-012,Auto Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,16983.49,0.0,0.0,0.0
+TXN-00097,CLM-0022,2024-11-05,Reserve,4110.17,USD,CLM-10022,POL-012,Auto Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,4110.17,0.0,0.0,0.0
+TXN-00098,CLM-0022,2024-09-20,Reserve,24606.43,USD,CLM-10022,POL-012,Auto Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,24606.43,0.0,0.0,0.0
+TXN-00099,CLM-0022,2025-02-12,Paid,11657.7,USD,CLM-10022,POL-012,Auto Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,11657.7,0.0,0.0,0.0,0.0
+TXN-00100,CLM-0022,2025-04-23,Adjustment,5263.66,USD,CLM-10022,POL-012,Auto Damage,Low,PN-10012,ACC-001,Auto Liability,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,5263.66
+TXN-00101,CLM-0023,2025-01-23,Recovery,-6477.62,USD,CLM-10023,POL-011,Property Damage,High,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,0.0,-6477.62,0.0
+TXN-00102,CLM-0023,2025-03-05,Paid,22370.17,USD,CLM-10023,POL-011,Property Damage,High,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,22370.17,0.0,0.0,0.0,0.0
+TXN-00103,CLM-0023,2025-04-27,Paid,19571.3,USD,CLM-10023,POL-011,Property Damage,High,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,19571.3,0.0,0.0,0.0,0.0
+TXN-00104,CLM-0023,2024-11-14,Reserve,20200.69,USD,CLM-10023,POL-011,Property Damage,High,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,20200.69,0.0,0.0,0.0
+TXN-00105,CLM-0023,2025-03-16,Adjustment,11881.47,USD,CLM-10023,POL-011,Property Damage,High,PN-10011,ACC-010,Property,Global Insurance Account 10,Financial Services,Europe,0.0,0.0,0.0,0.0,11881.47
+TXN-00106,CLM-0024,2024-10-14,Paid,11683.31,USD,CLM-10024,POL-014,Auto Damage,High,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,11683.31,0.0,0.0,0.0,0.0
+TXN-00107,CLM-0024,2025-03-05,Recovery,-16855.65,USD,CLM-10024,POL-014,Auto Damage,High,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,-16855.65,0.0
+TXN-00108,CLM-0024,2025-01-02,Adjustment,8273.8,USD,CLM-10024,POL-014,Auto Damage,High,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,0.0,8273.8
+TXN-00109,CLM-0024,2025-02-21,Recovery,-15509.98,USD,CLM-10024,POL-014,Auto Damage,High,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,-15509.98,0.0
+TXN-00110,CLM-0024,2025-02-12,Adjustment,10955.15,USD,CLM-10024,POL-014,Auto Damage,High,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,0.0,10955.15
+TXN-00111,CLM-0024,2025-04-01,Adjustment,11424.88,USD,CLM-10024,POL-014,Auto Damage,High,PN-10014,ACC-007,General Liability,Global Insurance Account 7,Manufacturing,North America,0.0,0.0,0.0,0.0,11424.88
+TXN-00112,CLM-0025,2024-12-29,Recovery,-11526.71,USD,CLM-10025,POL-004,Legal Expense,High,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,-11526.71,0.0
+TXN-00113,CLM-0025,2024-12-31,Reserve,21076.64,USD,CLM-10025,POL-004,Legal Expense,High,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,21076.64,0.0,0.0,0.0
+TXN-00114,CLM-0025,2024-08-31,Adjustment,12372.63,USD,CLM-10025,POL-004,Legal Expense,High,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,12372.63
+TXN-00115,CLM-0026,2024-05-20,Recovery,-2398.34,USD,CLM-10026,POL-008,Property Damage,Medium,PN-10008,ACC-002,General Liability,Global Insurance Account 2,Manufacturing,APAC,0.0,0.0,0.0,-2398.34,0.0
+TXN-00116,CLM-0026,2024-05-23,Reserve,7157.02,USD,CLM-10026,POL-008,Property Damage,Medium,PN-10008,ACC-002,General Liability,Global Insurance Account 2,Manufacturing,APAC,0.0,7157.02,0.0,0.0,0.0
+TXN-00117,CLM-0026,2024-05-31,Adjustment,2474.15,USD,CLM-10026,POL-008,Property Damage,Medium,PN-10008,ACC-002,General Liability,Global Insurance Account 2,Manufacturing,APAC,0.0,0.0,0.0,0.0,2474.15
+TXN-00118,CLM-0027,2024-12-17,Recovery,-17501.77,USD,CLM-10027,POL-001,Auto Damage,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,0.0,0.0,0.0,-17501.77,0.0
+TXN-00119,CLM-0027,2025-04-17,Reserve,2073.61,USD,CLM-10027,POL-001,Auto Damage,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,0.0,2073.61,0.0,0.0,0.0
+TXN-00120,CLM-0027,2025-01-31,Expense,13793.97,USD,CLM-10027,POL-001,Auto Damage,Low,PN-10001,ACC-009,Auto Liability,Global Insurance Account 9,Retail,North America,0.0,0.0,13793.97,0.0,0.0
+TXN-00121,CLM-0028,2024-02-24,Reserve,20905.83,USD,CLM-10028,POL-002,Bodily Injury,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,20905.83,0.0,0.0,0.0
+TXN-00122,CLM-0028,2024-05-18,Adjustment,23678.52,USD,CLM-10028,POL-002,Bodily Injury,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,0.0,23678.52
+TXN-00123,CLM-0028,2024-02-14,Adjustment,9819.34,USD,CLM-10028,POL-002,Bodily Injury,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,0.0,9819.34
+TXN-00124,CLM-0028,2024-02-10,Expense,7816.01,USD,CLM-10028,POL-002,Bodily Injury,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,7816.01,0.0,0.0
+TXN-00125,CLM-0028,2024-05-18,Recovery,-13686.4,USD,CLM-10028,POL-002,Bodily Injury,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,-13686.4,0.0
+TXN-00126,CLM-0029,2025-04-21,Adjustment,22496.38,USD,CLM-10029,POL-002,Legal Expense,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,0.0,22496.38
+TXN-00127,CLM-0029,2025-01-31,Reserve,7186.92,USD,CLM-10029,POL-002,Legal Expense,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,7186.92,0.0,0.0,0.0
+TXN-00128,CLM-0029,2025-01-31,Paid,10027.0,USD,CLM-10029,POL-002,Legal Expense,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,10027.0,0.0,0.0,0.0,0.0
+TXN-00129,CLM-0029,2025-03-19,Recovery,-18242.44,USD,CLM-10029,POL-002,Legal Expense,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,-18242.44,0.0
+TXN-00130,CLM-0029,2025-05-02,Recovery,-23028.77,USD,CLM-10029,POL-002,Legal Expense,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,-23028.77,0.0
+TXN-00131,CLM-0029,2025-03-07,Adjustment,1160.68,USD,CLM-10029,POL-002,Legal Expense,Medium,PN-10002,ACC-004,Auto Liability,Global Insurance Account 4,Retail,North America,0.0,0.0,0.0,0.0,1160.68
+TXN-00132,CLM-0030,2025-03-09,Adjustment,16743.49,USD,CLM-10030,POL-004,Auto Damage,Medium,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,0.0,16743.49
+TXN-00133,CLM-0030,2024-10-30,Recovery,-3824.64,USD,CLM-10030,POL-004,Auto Damage,Medium,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,0.0,-3824.64,0.0
+TXN-00134,CLM-0030,2025-02-04,Reserve,1731.97,USD,CLM-10030,POL-004,Auto Damage,Medium,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,1731.97,0.0,0.0,0.0
+TXN-00135,CLM-0030,2025-01-14,Expense,5685.68,USD,CLM-10030,POL-004,Auto Damage,Medium,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,5685.68,0.0,0.0
+TXN-00136,CLM-0030,2024-12-31,Expense,19150.13,USD,CLM-10030,POL-004,Auto Damage,Medium,PN-10004,ACC-001,Workers Compensation,Global Insurance Account 1,Construction,North America,0.0,0.0,19150.13,0.0,0.0
